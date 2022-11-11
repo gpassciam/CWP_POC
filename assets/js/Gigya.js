@@ -11,8 +11,8 @@ customLangParams = {
     };
     
         gigya.accounts.showScreenSet({
-            //screenSet: 'CWP-DEV-RegistrationLogin',
-            screenSet: 'CWP-DEV-Login-ext',
+            screenSet: 'CWP-DEV-RegistrationLogin',
+            //screenSet: 'CWP-DEV-Login-ext',
             startScreen: 'gigya-login-screen',
             customLang: customLangParams,
             containerID: 'LoginScreen'
